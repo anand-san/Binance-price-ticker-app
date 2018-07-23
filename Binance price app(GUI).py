@@ -1,3 +1,6 @@
+# Author : https://github.com/seanjin17
+
+
 from tkinter import *
 import json
 import requests
