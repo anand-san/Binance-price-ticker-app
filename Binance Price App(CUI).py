@@ -1,3 +1,5 @@
+# Author : https://github.com/seanjin17
+
 import json
 import requests
 def get_data():
