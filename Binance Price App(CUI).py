@@ -32,3 +32,4 @@ def get_data():
 			print(inp+" is an invalid symbol or it is not yet listed on binance")
 			get_data()
 get_data()
+#Travis CI Test
