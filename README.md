@@ -7,7 +7,7 @@ Please note, The app will only display alt coin price from binance exchange (htt
 # CUI Output
 ![App View](https://i.imgur.com/5J1VBRv.png)
 
-Please Install python for windows before running the app
+Please Install Python3+ for windows before running the app
 For windows go to :https://www.python.org/getit/
 Linux users can install it from terminal :sudo apt-get install python3
 
